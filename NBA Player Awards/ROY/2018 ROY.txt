@@ -1,0 +1,7 @@
+,,,,Voting,Voting,Voting,Voting,,Per Game,Per Game,Per Game,Per Game,Per Game,Per Game,Shooting,Shooting,Shooting,Advanced,Advanced,-additional
+Rank,Player,Age,Tm,First,Pts Won,Pts Max,Share,G,MP,PTS,TRB,AST,STL,BLK,FG%,3P%,FT%,WS,WS/48,-9999
+1,Ben Simmons,21,PHI,90.0,481.0,505,0.952,81,33.7,15.8,8.1,8.2,1.7,0.9,.545,.000,.560,9.2,.162,simmobe01
+2,Donovan Mitchell,21,UTA,11.0,323.0,505,0.640,79,33.4,20.5,3.7,3.7,1.5,0.3,.437,.340,.805,5.2,.095,mitchdo01
+3,Jayson Tatum,19,BOS,0.0,101.0,505,0.200,80,30.5,13.9,5.0,1.6,1.0,0.7,.475,.434,.826,7.1,.139,tatumja01
+4,Kyle Kuzma,22,LAL,0.0,3.0,505,0.006,77,31.2,16.1,6.3,1.8,0.6,0.4,.450,.366,.707,3.8,.077,kuzmaky01
+5,Dennis Smith Jr.,20,DAL,0.0,1.0,505,0.002,69,29.7,15.2,3.8,5.2,1.0,0.3,.395,.313,.694,-0.7,-0.017,smithde03

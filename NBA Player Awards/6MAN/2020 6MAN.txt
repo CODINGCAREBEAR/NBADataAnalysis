@@ -1,0 +1,11 @@
+,,,,Voting,Voting,Voting,Voting,,Per Game,Per Game,Per Game,Per Game,Per Game,Per Game,Shooting,Shooting,Shooting,Advanced,Advanced,-additional
+Rank,Player,Age,Tm,First,Pts Won,Pts Max,Share,G,MP,PTS,TRB,AST,STL,BLK,FG%,3P%,FT%,WS,WS/48,-9999
+1,Montrezl Harrell,26,LAC,58.0,397.0,500,0.794,63,27.8,18.6,7.1,1.7,0.6,1.1,.580,.000,.658,7.0,.191,harremo01
+2,Dennis Schröder,26,OKC,35.0,328.0,500,0.656,65,30.8,18.9,3.6,4.0,0.7,0.2,.469,.385,.839,3.6,.087,schrode01
+3,Lou Williams,33,LAC,7.0,127.0,500,0.254,65,28.7,18.2,3.1,5.6,0.7,0.2,.418,.352,.861,4.1,.105,willilo02
+4T,George Hill,33,MIL,0.0,17.0,500,0.034,59,21.5,9.4,3.0,3.1,0.8,0.1,.516,.460,.842,5.5,.210,hillge01
+4T,Christian Wood,24,DET,0.0,17.0,500,0.034,62,21.4,13.1,6.3,1.0,0.5,0.9,.567,.386,.744,5.1,.183,woodch01
+6,Goran Dragić,33,MIA,0.0,6.0,500,0.012,59,28.2,16.2,3.2,5.1,0.7,0.2,.441,.367,.776,3.5,.102,dragigo01
+7,Derrick Rose,31,DET,0.0,5.0,500,0.010,50,26.0,18.1,2.4,5.6,0.8,0.3,.490,.306,.871,2.5,.092,rosede01
+8,Dāvis Bertāns,27,WAS,0.0,2.0,500,0.004,54,29.3,15.4,4.5,1.7,0.7,0.6,.434,.424,.852,3.5,.107,bertada01
+9,Dwight Howard,34,LAL,0.0,1.0,500,0.002,69,18.9,7.5,7.3,0.7,0.4,1.1,.729,.600,.514,5.4,.197,howardw01

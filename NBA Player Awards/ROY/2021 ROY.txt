@@ -1,0 +1,6 @@
+,,,,Voting,Voting,Voting,Voting,,Per Game,Per Game,Per Game,Per Game,Per Game,Per Game,Shooting,Shooting,Shooting,Advanced,Advanced,-additional
+Rank,Player,Age,Tm,First,Pts Won,Pts Max,Share,G,MP,PTS,TRB,AST,STL,BLK,FG%,3P%,FT%,WS,WS/48,-9999
+1,LaMelo Ball,19,CHO,84.0,465.0,495,0.939,51,28.8,15.7,5.9,6.1,1.6,0.4,.436,.352,.758,2.8,.093,ballla01
+2,Anthony Edwards,19,MIN,15.0,309.0,495,0.624,72,32.1,19.3,4.7,2.9,1.1,0.5,.417,.329,.776,0.8,.017,edwaran01
+3,Tyrese Haliburton,20,SAC,0.0,114.0,495,0.230,58,30.1,13.0,3.0,5.3,1.3,0.5,.472,.409,.857,3.5,.096,halibty01
+4,Saddiq Bey,21,DET,0.0,3.0,495,0.006,70,27.3,12.2,4.5,1.4,0.7,0.2,.404,.380,.844,3.3,.082,beysa01

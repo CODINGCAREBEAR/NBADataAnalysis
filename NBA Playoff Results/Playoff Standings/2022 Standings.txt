@@ -1,0 +1,18 @@
+,,,Place,Place,Conference,Conference,Division,Division,Division,Division,Division,Division,Margin,Margin,Month,Month,Month
+Rk,Team,Overall,Home,Road,E,W,A,C,SE,NW,P,SW,≤3,≥10,Apr,May,Jun
+1,Golden State Warriors,16-6,11-1,5-5,4-2,12-4,4-2,,,4-1,,8-3,2-0,10-4,4-1,8-3,4-2
+2,Boston Celtics,14-10,6-6,8-4,12-6,2-4,4-0,4-3,4-3,,2-4,,1-2,8-6,4-0,8-6,2-4
+3,Miami Heat,11-7,7-3,4-4,11-7,,7-6,,4-1,,,,1-1,7-4,4-1,7-6,
+4,Dallas Mavericks,9-9,6-2,3-7,,9-9,,,,4-2,5-7,,1-1,5-4,4-2,5-7,
+5,Milwaukee Bucks,7-5,3-3,4-2,7-5,,3-4,4-1,,,,,2-0,4-3,4-1,3-4,
+6,Phoenix Suns,7-6,5-2,2-4,,7-6,,,,,,7-6,1-0,4-5,4-2,3-4,
+7,Memphis Grizzlies,6-6,4-2,2-4,,6-6,,,,4-2,2-4,,1-3,2-3,4-2,2-4,
+8,Philadelphia 76ers,6-6,4-2,2-4,6-6,,4-2,,2-4,,,,1-0,4-4,4-2,2-4,
+9,Minnesota Timberwolves,2-4,1-2,1-2,,2-4,,,,,,2-4,1-1,1-1,2-4,,
+10,New Orleans Pelicans,2-4,1-2,1-2,,2-4,,,,,2-4,,0-1,2-2,2-4,,
+11,Toronto Raptors,2-4,1-2,1-2,2-4,,2-4,,,,,,0-1,1-3,2-4,,
+12,Utah Jazz,2-4,1-2,1-2,,2-4,,,,,,2-4,1-1,0-1,2-4,,
+13,Atlanta Hawks,1-4,1-1,0-3,1-4,,,,1-4,,,,1-1,0-3,1-4,,
+14,Chicago Bulls,1-4,0-2,1-2,1-4,,,1-4,,,,,,0-3,1-4,,
+15,Denver Nuggets,1-4,1-1,0-3,,1-4,,,,,1-4,,,0-2,1-4,,
+16,Brooklyn Nets,0-4,0-2,0-2,0-4,,0-4,,,,,,0-1,,0-4,,

@@ -1,0 +1,22 @@
+,,,Place,Place,Conference,Conference,Division,Division,Division,Division,Division,Division,Margin,Margin,Month,Month,Month
+Rk,Team,Overall,Home,Road,E,W,A,C,SE,NW,P,SW,≤3,≥10,Apr,May,Jun
+1,Denver Nuggets,16-4,10-1,6-3,4-1,12-3,,,4-1,4-1,8-2,,2-1,9-0,5-1,7-2,4-1
+2,Miami Heat,13-10,6-4,7-6,12-6,1-4,8-5,4-1,,1-4,,,2-1,5-6,5-1,7-5,1-4
+3,Boston Celtics,11-9,5-6,6-3,11-9,,4-3,,7-6,,,,1-2,7-3,4-2,7-7,
+4,Los Angeles Lakers,8-8,6-2,2-6,,8-8,,,,0-4,4-2,4-2,1-1,5-5,4-2,4-6,
+5,Philadelphia 76ers,7-4,3-2,4-2,7-4,,7-4,,,,,,1-0,3-3,4-0,3-4,
+6,Golden State Warriors,6-7,4-2,2-5,,6-7,,,,,6-7,,1-2,4-3,4-3,2-4,
+7,New York Knicks,6-5,4-1,2-4,6-5,,,4-1,2-4,,,,,2-2,4-2,2-3,
+8,Phoenix Suns,6-5,4-2,2-3,,6-5,,,,2-4,4-1,,,2-4,4-2,2-3,
+9,Sacramento Kings,3-4,2-2,1-2,,3-4,,,,,3-4,,1-1,1-2,3-4,,
+10,Atlanta Hawks,2-4,1-2,1-2,2-4,,2-4,,,,,,1-0,0-2,2-4,,
+11,Memphis Grizzlies,2-4,2-1,0-3,,2-4,,,,,2-4,,,2-3,2-4,,
+12,Cleveland Cavaliers,1-4,1-2,0-2,1-4,,1-4,,,,,,,1-2,1-4,,
+13,Los Angeles Clippers,1-4,0-2,1-2,,1-4,,,,,1-4,,,0-2,1-4,,
+14,Milwaukee Bucks,1-4,1-2,0-2,1-4,,,,1-4,,,,0-1,1-2,1-4,,
+15,Minnesota Timberwolves,1-4,1-1,0-3,,1-4,,,,1-4,,,0-1,0-1,1-4,,
+16,Brooklyn Nets,0-4,0-2,0-2,0-4,,0-4,,,,,,,0-2,0-4,,
+17,Chicago Bulls,0-0,,,,,,,,,,,,,,,
+18,New Orleans Pelicans,0-0,,,,,,,,,,,,,,,
+19,Oklahoma City Thunder,0-0,,,,,,,,,,,,,,,
+20,Toronto Raptors,0-0,,,,,,,,,,,,,,,
