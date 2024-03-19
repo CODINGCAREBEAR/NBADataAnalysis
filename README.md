@@ -1,6 +1,8 @@
 # NBADataAnalysis
 Repository contains a heavily detailed JupyterNotebook used to compile and analyze the follow underlying data. 
 
+Intention of analysis was to create several Tableau dashboards for stat visualization and to predict NBA awards using machine learning models. 
+
 NBA source data ranges from 2003-2024 and includes:
 
 ## Player Data
